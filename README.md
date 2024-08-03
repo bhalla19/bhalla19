@@ -1,16 +1,13 @@
-## Hi there 👋
+# 💫 About Me:
 
-<!--
-**bhalla19/bhalla19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 *Hi, I’m Vedansh Shrivastava*  
+I am a passionate Full Stack Developer with a strong interest in software development. I love building applications that provide seamless user experiences and solving complex problems through code.
 
-Here are some ideas to get you started:
+💞 *Looking for Opportunities*  
+I am actively seeking internships to further develop my skills and contribute to innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 *Currently Learning*  
+Nextjs
+
+📫 *Contact Me*  
+Feel free to reach out via email: [vedanshwork302@gmail.com](mailto:vedanshwork302@gmail.com)
