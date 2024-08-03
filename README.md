@@ -10,4 +10,4 @@ I am actively seeking internships to further develop my skills and contribute to
 Nextjs
 
 📫 *Contact Me*  
-Feel free to reach out via email: [vedanshwork302@gmail.com](mailto:vedanshwork302@gmail.com)
+Feel free to reach out via email: [vaibhavbhalla67@gmail.com](mailto:vaibhavbhalla67@gmail.com)
