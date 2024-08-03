@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 *Hi, I’m Vedansh Shrivastava*  
+👋 *Hi, I’m Vaibhav*  
 I am a passionate Full Stack Developer with a strong interest in software development. I love building applications that provide seamless user experiences and solving complex problems through code.
 
 💞 *Looking for Opportunities*  
