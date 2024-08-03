@@ -23,7 +23,6 @@ Here are the technologies I work with:
 ![Bootstrap](https://raw.githubusercontent.com/vedansh302/SVG/main/bootstrap.svg)
 ![JavaScript](https://raw.githubusercontent.com/vedansh302/SVG/main/javascript.svg)
 ![PHP](https://raw.githubusercontent.com/vedansh302/SVG/main/php.svg)
-
 ![Python](https://raw.githubusercontent.com/vedansh302/SVG/main/python.svg)
 ![TypeScript](https://raw.githubusercontent.com/vedansh302/SVG/main/typescript.svg)
 ![MongoDB](https://raw.githubusercontent.com/vedansh302/SVG/main/mongodb.svg)
