@@ -22,16 +22,18 @@ Here are the technologies I work with:
 ![Tailwind CSS](https://raw.githubusercontent.com/vedansh302/SVG/main/tailwindcss.svg)
 ![Bootstrap](https://raw.githubusercontent.com/vedansh302/SVG/main/bootstrap.svg)
 ![JavaScript](https://raw.githubusercontent.com/vedansh302/SVG/main/javascript.svg)
+![PHP](https://raw.githubusercontent.com/vedansh302/SVG/main/php.svg)
+![Java](https://raw.githubusercontent.com/vedansh302/SVG/main/javasvg.svg)
+![Python](https://raw.githubusercontent.com/vedansh302/SVG/main/python.svg)
 ![TypeScript](https://raw.githubusercontent.com/vedansh302/SVG/main/typescript.svg)
-![Node.js](https://raw.githubusercontent.com/vedansh302/SVG/main/nodejs.svg)
-![Express.js](https://raw.githubusercontent.com/vedansh302/SVG/main/expressjs.svg)
 ![MongoDB](https://raw.githubusercontent.com/vedansh302/SVG/main/mongodb.svg)
-![Next.js](https://raw.githubusercontent.com/vedansh302/SVG/main/next.svg)
+![Express.js](https://raw.githubusercontent.com/vedansh302/SVG/main/expressjs.svg)
 ![React](https://raw.githubusercontent.com/vedansh302/SVG/main/react.svg)
+![Node.js](https://raw.githubusercontent.com/vedansh302/SVG/main/nodejs.svg)
+![Next.js](https://raw.githubusercontent.com/vedansh302/SVG/main/next.svg)
 ![Redux](https://raw.githubusercontent.com/vedansh302/SVG/main/redux.svg)
 ![React Router](https://raw.githubusercontent.com/vedansh302/SVG/main/reactrouter.svg)
 ![Redis](https://raw.githubusercontent.com/vedansh302/SVG/main/redis.svg)
-![Python](https://raw.githubusercontent.com/vedansh302/SVG/main/python.svg)
-![PHP](https://raw.githubusercontent.com/vedansh302/SVG/main/php.svg)
+
 ## 🌟 Let's Connect!
 I'm excited to connect with other developers and explore collaboration opportunities. Let's build something amazing together!
